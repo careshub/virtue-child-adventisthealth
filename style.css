@@ -43,3 +43,7 @@
 #cdt-report-content .cdt-gauge .highcharts-legend-item.highcharts-series-1 .highcharts-point {
     fill: #6CC04A;
 }
+
+.kad-nav-collapse.collapse.show {
+	height: auto;
+}
