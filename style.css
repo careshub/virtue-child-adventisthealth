@@ -8,41 +8,6 @@
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Text Domain:  virtue-child-cares
 */
-#cdt-report-content .highcharts-point.highcharts-color-0 {
-    fill: #00A0DD;
-}
-#cdt-report-content .highcharts-point.highcharts-color-1 {
-    fill: #55565A;
-}
-#cdt-report-content .highcharts-point.highcharts-color-2 {
-    fill: #6CC04A;
-}
-#cdt-report-content .highcharts-point.highcharts-color-3 {
-    fill: #675DC6;
-}
-#cdt-report-content .highcharts-point.highcharts-color-4 {
-    fill: #F3D54E;
-}
-#cdt-report-content .highcharts-point.highcharts-color-5 {
-    fill: #007D8A;
-}
-#cdt-report-content .highcharts-point.highcharts-color-6 {
-    fill: #26CAD3;
-}
-#cdt-report-content .highcharts-point.highcharts-color-7 {
-    fill: #CCCCCC;
-}
-#cdt-report-content .highcharts-point.highcharts-color-8 {
-    fill: #EBA4E4;
-}
-#cdt-report-content .highcharts-point.highcharts-color-9 {
-    fill: #26CAD3;
-}
-/*Solid gauges*/
-#cdt-report-content .cdt-gauge .highcharts-series-1 .highcharts-point.highcharts-color-0,
-#cdt-report-content .cdt-gauge .highcharts-legend-item.highcharts-series-1 .highcharts-point {
-    fill: #6CC04A;
-}
 
 .kad-nav-collapse.collapse.show {
 	height: auto;
