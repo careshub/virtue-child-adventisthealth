@@ -37,3 +37,17 @@ function virtue_child_docs_title( $title ) {
 }
 add_filter( 'virtue_title', 'virtue_child_docs_title' );
 
+
+/**
+ * Don't use a sidebar with the what's new item pages.
+ *
+ * @since 1.4.0
+ *
+ */
+function ahs_no_sidebar_pages( $conf ) {
+	if ( is_singular( 'ss_whatsnewitem' ) ) {
+		$conf = false;
+	}
+	return $conf;
+}
+add_filter( 'kadence_display_sidebar', 'ahs_no_sidebar_pages' );

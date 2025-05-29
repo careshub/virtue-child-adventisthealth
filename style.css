@@ -12,3 +12,6 @@
 .kad-nav-collapse.collapse.show {
 	height: auto;
 }
+.single-ss_whatsnewitem .ss_whatsnewitem .subhead {
+	display: none;
+}
