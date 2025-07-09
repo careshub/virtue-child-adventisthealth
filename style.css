@@ -12,6 +12,13 @@
 .kad-nav-collapse.collapse.show {
 	height: auto;
 }
+.ss_whatsnewitem .subhead,
 .single-ss_whatsnewitem .ss_whatsnewitem .subhead {
 	display: none;
+}
+.footercredits p{
+	font-size:14px;
+}
+.postmeta .postdate{
+	color: #222;
 }
